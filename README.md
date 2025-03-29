@@ -1,4 +1,4 @@
-# docker-basics
+# Docker-basics
 Docker is an open-source containerization platform that allows developers to package applications and their dependencies into lightweight, portable containers. These containers ensure that applications run consistently across different environments, whether on a developer’s local machine, a test server, or a production system.
 
 ## With Docker, you can:
